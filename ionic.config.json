@@ -1,0 +1,7 @@
+{
+  "name": "ionrange",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
